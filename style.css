@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Economica:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600&display=swap'));
+
+
+h1{
+	background-color:#0285F0 ;
+	text-align: center;
+	font-family: 'Economica', sans-serif;
+	color: white;
+	}
+
+
+h2{
+	color: #0285F0;
+	}
+
+
+body{
+	font-family: 'Economica', sans-serif;
+	text-align: center;
+	color:#0285F0;
+	background-color: #E7E8EA;
+	}
+
+
+p{
+	color:#black;
+	font:italic;
+	color:#A49E9C; ;
+	}
+
+
+div{
+	padding:10px 20px;
+	border: 1px solid #0285F0;
+	color:#A49E9C;
+	margin: 10px 300px;
+	background-color:white;;
+	border-radius: 15px;
+	box-shadow: 2px #0285F0;
+	}
+
+
+#division-1 {
+	padding: 10px 20px 30px 20px;
+	}
+
+
+#avatar{
+	width: 125;
+	border-radius: 50%;
+	border: 1px solid #0285F0;
+	filter: brightness(80%);
+	}
+
+
+#avatar:hover{
+	filter: brightness(120%);
+	}
+	
+
+
+
+
+.btn-blue{
+	color: white;
+	background-color: #FF9601;
+	border-radius: 6px;
+	padding: 5px 10px;
+	}
+
+
+.btn-blue:hover {
+	background-color: white;
+	color: #FF9601;
+	transition: 0,5s;
+	border: 1px solid #FF9601;
+	}
+
+
+.list-inline {
+	padding: 0;
+	list-style: none;
+	}
+
+
+.list-inline li {
+	display: inline;
+	margin: 5px;
+	}
+
+
+.fa-brands{
+	font-size: 50px;
+	color:  rgba(0, 0, 0, 0.4);
+	}
+
+
+.fa-brands:hover {
+	color: blue;
+	}
+
+
+.list-inline-2 {
+	padding: 0;
+	list-style: none;
+	font-size: 20px;
+	color: #A49E9C;
+	}
+
+
+.list-inline-3 {
+	padding: 0;
+	list-style: none;
+	color: #A49E9C;
+	}
+
+
+
+
+
+
+
+
+
